@@ -43,20 +43,22 @@
 
 *Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
 
-- *Short Name*: *Formal Learning Objective #1*
-- *Short Name*: *Formal Learning Objective #2*
+- Match food names to appropriate item
+- Identify which language a word is in
 - *Short Name*: *Formal Learning Objective #3*
 
 ## Prerequisite Knowledge
 
 *What do they need to know prior to trying this game?*
 
-- *Prerequisite Learning Objective #1*
+- Identify and match various food items to their English name
 - *Prerequisite Learning Objective #2*
 
 ## Assessment Measures
 
 *Describe how the learning will be assessed, e.g., pre/post multiple-choice test, or SAT, or some other instrument.*
+
+A short multiple choice post quiz will be provided at the end of the game to measure recognition of vocabulary.
 
 *If proposing a new instrument, briefly and concisely list some example assessment questions.*
 
@@ -75,12 +77,13 @@
 ## Player Interaction Pattern
 
 *Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
+This is a single player game where the player clicks and drags items from the conveyor belt into the customer's bag. The user will then use arrow keys to direct the character in the right direction.
 
 ## Player Modes
 
 *Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
 
-- *Player mode #1*: *Description*
+- Single player: you repeatedly advance through rounds and levels until you reach the end.
 - *Player mode #2*: *Description*
 - *etc.*
 
